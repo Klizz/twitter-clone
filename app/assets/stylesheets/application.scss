@@ -30,3 +30,17 @@
 .notifications:not(:last-child) {
     margin-bottom: 0;
 }
+
+.is-96x96 {
+    border: 3px solid white;
+    margin-right: 5px;
+}
+
+.grey {
+    background-color: gray;
+    padding: 20px;
+}
+
+body {
+    background-color: #F8F8F8;
+}
